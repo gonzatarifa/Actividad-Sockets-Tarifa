@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1724538065 source:e:\workbench-c\servidor\servidor.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<winsock2.h>
+	<time.h>
+
